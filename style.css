@@ -71,3 +71,9 @@ body {
 .slide__active {
   background-color: aquamarine;
 }
+
+.img {
+  height: 350px;
+  border-radius: 20px;
+  object-fit: contain;
+}
